@@ -1,0 +1,15 @@
+CREATE TABLE brewings(id INTEGER PRIMARY KEY AUTOINCREMENT, currentdate DATE, currenttime TIME, temperature_amb FLOAT, temperature_kettle FLOAT, temperature_mash FLOAT, weight INT, heater BOOLEAN, agitator BOOLEAN, pump_kettle BOOLEAN, pump_mash BOOLEAN)
+
+INSERT INTO brewings(currentdate, currenttime, temperature_amb, temperature_kettle, temperature_mash, weight, heater, agitator, pump_kettle, pump_mash) values(date('now'), time('now'), 14.4, 52.75, 20.05, 30000, TRUE, 0, false, 1)
+
+SELECT * FROM brewings
+
+DELETE from brewings
+
+DROP TABLE brewings
+
+INSERT INTO brewings(currentdate, currenttime, temperature_amb, temperature_kettle, temperature_mash, weight, heater, agitator, pump_kettle, pump_mash) values(date('now'), time('now'), 33, 0, 0, 0, false, false, false, false)"
+
+
+
+[[65,59,80,81,56,55,40],[28,48,40,19,86,27,90],[38,28,20,49,45,60,20],[58,18,40,29,15,30,60]]

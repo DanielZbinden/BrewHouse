@@ -1,0 +1,13 @@
+Fühler kalibrieren
+Reinigen
+Node-Red
+Arduino: Watchdog to reset Heater
+Isolation
+Sprungantwort aufnehmen
+*Aussentemperatur Fühler
+*Rührwerk perfektiomieren
+Lüfter instalieren
+*Gewichtssensoren implementieren
+*Halterung für Pfanne
+Testing
+Siedetemperatur Glis: ca. 95°C

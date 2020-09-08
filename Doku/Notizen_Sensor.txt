@@ -1,0 +1,5 @@
+5°C  --> 22kOhm
+50°C --> 2.33kOhm --> Arebitspunkt
+183 = 20.5°C
+
+13.02.20: von 12° bis 59° in 1h

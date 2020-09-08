@@ -1,0 +1,10 @@
+Organisation globale Variabeln
+Request interface Pi --> Arduino
+Config teil in Arduino setup
+Temperatur alarm
+Gewichtsanzeige
+Programm Durchlauf: 1.Rast, 2. Rast ...
+DB backup, export
+CPU info (load, IP, ...)
+Clock signalisation
+
